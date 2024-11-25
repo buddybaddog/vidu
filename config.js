@@ -1,3 +1,3 @@
 console.log('config.js');
 console.log('version13');
-console.log('branch1');
+console.log('branch2');
